@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
- 
+
 function App() {
     const [tasks, setTasks] = useState([]);
     const [task, setTask] = useState("");
